@@ -1,4 +1,4 @@
-Date,Activity,Distance(m),Time,Location,Elsa
+Date,Activity,Distance,Time,Location,Elsa
 2020-02-24,ski-skate,4780,0,Bymarka,1
 2020-02-29,ski-classic,7690,0,Bymarka,1
 2020-03-01,ski-classic,12650,0,Bymarka,1
@@ -18,3 +18,4 @@ Date,Activity,Distance(m),Time,Location,Elsa
 2020-04-04,ski-skate,7810,0,Bymarka,1
 2020-04-05,ski-classic,7970,0,Bymarka,1
 2020-04-06,ski-skate,10000,0,Bymarka,1
+2020-04-07,ski-skate,13390,0,Bymarka,1
