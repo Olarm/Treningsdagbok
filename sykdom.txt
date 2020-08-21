@@ -1,0 +1,6 @@
+from,to,description
+20-08-11,,soreness nasopharynx/oropharynx area
+20-08-15,20-08-19,dry cough
+20-08-15,,swelling pharynx
+20-08-16,,Nose slightly congested and runny
+20-08-19,,coughing with phlegm
