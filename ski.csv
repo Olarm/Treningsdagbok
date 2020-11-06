@@ -73,6 +73,10 @@ Date,Activity,Distance,Time,Location,Elsa,Elevation
 2020-10-14,bike,31520,146.0,Bymarka,1,2346
 2020-10-15,bike,9640,38.07,Bymarka,1,691
 2020-10-17,run,5240,0,Bymarka,1,162.0
-2020-10-21,run,2580,11.02,Bymarka,1,136.0
+2020-10-21,run-pull,2580,11.02,Bymarka,1,136.0
 2020-10-24,bike,9540,38.36,Bymarka,1,647
 2020-10-25,bike-offroad,15800,71.25,Bymarka,1,1073.0
+2020-10-28,bike-offroad,23600,99.25,Bymarka,1,1523.0
+2020-11-01,run,6860,37.34,Bymarka,1,326.0
+2020-11-02,bike,9520,41.21,Bymarka,1,693.0
+2020-11-06,bike,17230,76.08,Bymarka,1,976.0
