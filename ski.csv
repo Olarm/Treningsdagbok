@@ -81,6 +81,8 @@ Date,Activity,Distance,Time,Location,Elsa,Elevation
 2020-11-02,bike,9520,41.21,Bymarka,1,432.0
 2020-11-06,bike,17230,76.08,Bymarka,1,720.0
 2020-11-07,bike,8500,35.54,jobb-hjem,1,0.0
-2020-11-08,run,9330,50.13,Bymarka,1,495.0
+2020-11-08,run-pull,9330,50.13,Bymarka,1,495.0
 2020-11-12,bike-offroad,15800,66.51,Bymarka,1,656.0
-2020-11-14,run,10610,60.0,Bymarka,1,473.0
+2020-11-14,run-pull,10610,60.0,Bymarka,1,473.0
+2020-11-18,bike,9690,42.23,Bymarka,1,439.0
+2020-11-19,ski-classic,13490,60.36,Bymarka,1,534.0
