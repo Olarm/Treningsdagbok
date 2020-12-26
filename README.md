@@ -1,0 +1,3 @@
+# Trening
+
+Se oversikt.ipynb
