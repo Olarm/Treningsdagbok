@@ -1,7 +1,8 @@
 from,to,description,severity
-20-08-11,,soreness nasopharynx/oropharynx area,
-20-08-15,20-08-19,dry cough,
-20-08-15,,swelling pharynx
-20-08-16,,Nose slightly congested and runny
-20-08-19,,coughing with phlegm
-18-02-21,,Nose slightly congested and runny; coughing with phlegm, mild
+20-08-11,,soreness nasopharynx/oropharynx area,medium
+20-08-15,20-08-19,dry cough,severe
+20-08-15,20-09-01,swelling pharynx,medium
+20-08-16,20-10-13,Nose congested and runny,medium
+20-08-19,20-10-13,coughing with phlegm,medium
+18-02-21,,coughing with phlegm, mild
+18-02-21,,Nose congested and runny, mild
