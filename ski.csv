@@ -275,6 +275,9 @@ Date,Activity,Distance,Time,Location,Elsa,Elevation,pull,weight
 2022-02-13,ski-classic,14950,137.17,Bymarka,1,300,0,0.0
 2022-02-15,ski-classic,19410,95.45,Bymarka,1,445,1,0.0
 2022-02-17,ski-skate,7740,31.50,Bymarka,1,145,1,0.0
-2022-02-19,ski-classic,14450,103.25,Bymarka,1,305,0,6.0
+2022-02-19,ski-classic,14450,103.25,Bymarka,1,305,0,5.0
 2022-02-20,ski-classic,13830,104.44,Bymarka,1,295,0,7.0
 2022-02-21,ski-skate,8010,41.28,Bymarka,1,170,1,0.0
+2022-02-22,ski-skate,14880,62.24,Bymarka,1,300,1,0.0
+2022-02-24,ski-classic,16370,72.53,Bymarka,0,320,0,0.0
+2022-02-26,ski-skate,14000,52.47,Bymarka,1,340,1,0.0
