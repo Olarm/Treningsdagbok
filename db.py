@@ -31,7 +31,7 @@ async def create_table():
                     date date not null,
                     activity text not null,
                     distance integer not null,
-                    time integer not null,
+                    duration integer not null,
                     location text not null,
                     elsa integer not null,
                     ascent float not null,
@@ -46,11 +46,44 @@ async def insert():
     async with await psycopg.AsyncConnection.connect(conn_str) as aconn:
         async with aconn.cursor() as acur:
             data = pd.read_csv("ski.csv")
-            
+            for index, row in data.iterrows():
+                query = """
+                    INSERT INTO exercises_manual (
+                        date,
+                        activity,
+                        distance,
+                        duration,
+                        location,
+                        elsa,
+                        ascent,
+                        pull,
+                        weight
+                    ) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)
+                """
+                try:
+                    await acur.execute(
+                        query,
+                        (
+                            row.Date,
+                            row.Activity,
+                            row.Distance,
+                            row.Time,
+                            row.Location,
+                            row.Elsa,
+                            row.Elevation,
+                            row.pull,
+                            row.weight
+                        )
+                    )
+                except Exception as e:
+                    print(f"Error inserting: {e}")
+    print("Done inserting")
+
 
 
 async def main():
     await create_table()
+    await insert()
 
 
 if __name__ == "__main__":
